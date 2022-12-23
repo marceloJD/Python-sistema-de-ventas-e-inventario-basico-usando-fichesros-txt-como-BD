@@ -1,0 +1,10 @@
+Marce;Xime;230;Pollo;12
+Marce;Xime;230;Pollo;12
+Marce;Xime;230;Pollo;12
+xxx;e;48.0;Pollo;4
+xxx;e;48.0;Pollo;4
+xxx;e;40.0;Leche Gloria;4
+xxx;e;40.0;Leche Gloria;4
+xxx;e;40.0;Leche Gloria;4
+xxx;e;40.0;Leche Gloria;4
+Marco;e;12.0;Pollo;1

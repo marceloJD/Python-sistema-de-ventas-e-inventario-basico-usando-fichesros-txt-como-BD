@@ -1,0 +1,103 @@
+1. dado el siguiente diccionario:
+
+diccionario = {
+    "clase": {
+        "alumno": {
+            "nombre": "Carlos Peña",
+            "cursos": {
+                "Historia": 17,
+                "Ciencias": 15
+            }
+        }
+    }
+}
+
+Escribir el código para acceder a la nota de ciencias y mostrarla en pantalla
+
+
+#######################################################################################
+
+
+2. Dado el siguiente diccionario:
+
+diccionario_2 = {
+    "nombre": "María",
+    "edad": 25,
+    "salario": 8000,
+    "ciudad": "New york"
+}
+
+y las claves:
+claves = ["nombre", "salario"]
+
+Implementar una función que reciba como parámetros el diccionario y la lista claves
+y retorne un nuevo diccionario conteniendo solo las claves de la lista y sus valores:
+
+{'nombre': 'María', 'salario': 8000}
+
+
+#######################################################################################
+
+3. Dada la lista y diccionario siguientes:
+
+empleados = ['Marcelo', 'Juan']
+asignación = {"cargo": 'Analista', "salario": 8000}
+
+Implementar una función que reciba como parámetros la lista de empleados y la asignación y retorne
+un diccionario cómo en el ejemplo:
+
+{'Marcelo': {"cargo": 'Analista', "salario": 8000}, 'Juan': {"cargo": 'Analista', "salario": 8000}}
+
+
+#######################################################################################
+
+ 4. Dado el siguiente diccionario
+
+diccionario_3 = {
+    "nombre": "María",
+    "edad": 35,
+    "salario": 2500,
+    "ciudad": "Tokio"
+}
+
+Implementar un código que permita modificar la clave "ciudad" por "locación"
+
+
+#######################################################################################
+
+
+5. En el siguiente diccionario se ha registrado de forma errónea el salario del usuario 3, el valor es 5000
+
+diccionario_4 = {
+    'Usuario1': {'nombre': 'Karina', 'salario': 4500},
+    'Usuario2': {'nombre': 'Martin', 'salario': 8000},
+    'Usuario3': {'nombre': 'Rudolph', 'salario': 500}
+}
+
+Se le solicita escribir el código para corregir el salario del Usuario3
+
+
+#######################################################################################
+
+6. Crear una tupla con 30 números aleatorios entre 50 y 100
+
+
+#######################################################################################
+
+7. Dada la siguiente tupla
+
+tupla = (('w', 215), ('x', 491), ('y', 180), ('z', 345))
+
+
+Se requiere escribir un código para ordenar la tupla en función al segundo elemento de las tuplas pares. 
+La salida debe ser: (('c', 180), ('a', 215), ('d', 345), ('b', 491))
+
+
+#######################################################################################
+
+8. Dada la siguiente tupla:
+
+Tupla = (10, 20, 30, 40, 50, 60, 70, 80)
+
+Escriba el código que da como resultado: (30, 40, 50) (10, 20, 30, 40) (40, 50, 60, 70, 80)
+

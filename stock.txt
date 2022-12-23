@@ -1,0 +1,5 @@
+Leche Gloria;49.0;10
+Pollo;0.0;12
+Galletas;200;1
+ZZZ;12;15
+ccc;1;1
